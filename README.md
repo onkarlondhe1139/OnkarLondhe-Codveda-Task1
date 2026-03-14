@@ -171,9 +171,9 @@ Some countries show stronger positive sentiment trends.
 
 # Project Files
 
-Dataset – 
+Dataset – https://github.com/onkarlondhe1139/OnkarLondhe-Codveda-Task1/blob/main/3)%20Sentiment%20dataset.csv
 Excel File – 
-Workflow Diagram – 
+Workflow Diagram – https://github.com/onkarlondhe1139/OnkarLondhe-Codveda-Task1/blob/main/Workflow.png
 
 ---
 
