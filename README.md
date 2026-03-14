@@ -183,10 +183,15 @@ Workflow Diagram –
 # Skills Demonstrated
 
 Power Query
+
 Data Cleaning
+
 Data Transformation
+
 ETL Pipeline Implementation
+
 Data Aggregation
+
 Automation using Query Refresh
 
 ---
@@ -194,7 +199,9 @@ Automation using Query Refresh
 # Future Improvements
 
 Create Power BI dashboard for visualization
+
 Automate refresh using scheduled data pipelines
+
 Perform deeper sentiment trend analysis
 
 ---
