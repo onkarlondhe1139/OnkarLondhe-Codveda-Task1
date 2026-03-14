@@ -23,13 +23,21 @@ Total Columns: 15
 Key Fields Included
 
 Text – Social media post content
+
 Sentiment – Positive / Neutral / Negative classification
+
 Timestamp – Date and time of post
+
 User – Username
+
 Platform – Social media platform
+
 Hashtags – Hashtags used in posts
+
 Likes – Number of likes
+
 Retweets – Number of retweets
+
 Country – User location
 
 ---
@@ -37,8 +45,11 @@ Country – User location
 # Tools & Technologies
 
 Microsoft Excel
+
 Power Query Editor
+
 Data Transformation Techniques
+
 ETL Workflow
 
 ---
@@ -160,9 +171,9 @@ Some countries show stronger positive sentiment trends.
 
 # Project Files
 
-Dataset – Raw social media dataset
-Excel File – Power Query transformations
-Workflow Diagram – ETL transformation process
+Dataset – 
+Excel File – 
+Workflow Diagram – 
 
 ---
 
